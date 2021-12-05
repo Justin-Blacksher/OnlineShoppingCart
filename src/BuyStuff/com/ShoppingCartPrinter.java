@@ -74,7 +74,7 @@ public class ShoppingCartPrinter {
         System.out.print(stockItem_1.getItemName() + " ");
         System.out.println(stockItem_1.getItemQuantity() + " @ $" + stockItem_1.getItemPrice() +  " = $" + itemOneCost );
         System.out.print(stockItem_2.getItemName() + " ");
-        System.out.println(stockItem_2.getItemQuantity() + " @ $" + stockItem_2.getItemPrice() +  " = $" + itemOneCost );
+        System.out.println(stockItem_2.getItemQuantity() + " @ $" + stockItem_2.getItemPrice() +  " = $" + itemTwoCost );
         System.out.println("");
         System.out.println("");
         System.out.print("Total: ");
