@@ -106,6 +106,6 @@ public class ShoppingCartPrinter {
             [X] setQuantity()
             [X] getQuantity()
         [X] Prompt user for two items and create two objects from them
-            [] call scnr.nextLine() to allow the user to input a new string
+            [X] call scnr.nextLine() to allow the user to input a new string
         [X] Add the costs of the two items together and output the total cost
  */
